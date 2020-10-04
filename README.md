@@ -9,7 +9,11 @@ https://2020.spaceappschallenge.org/challenges/sustain/sustaining-our-planet-fut
 
 # Team Members
 . Delgado, Cecilia
+
 . Romero Fernández, Mía
+
 . Rondot, Juan
+
 . Rondot, Camila Sofía
+
 . Rondot, Micaela Rocío
