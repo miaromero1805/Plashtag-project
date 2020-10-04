@@ -8,12 +8,12 @@ The final documentation is located in the "documentation" folder
 https://2020.spaceappschallenge.org/challenges/sustain/sustaining-our-planet-future-generations/teams/apolo-2020/project
 
 # Team Members
-. Delgado, Cecilia
+. Delgado, Cecilia.
 
-. Romero Fernández, Mía
+. Romero Fernández, Mía.
 
-. Rondot, Juan
+. Rondot, Juan.
 
-. Rondot, Camila Sofía
+. Rondot, Camila Sofía.
 
-. Rondot, Micaela Rocío
+. Rondot, Micaela Rocío.
